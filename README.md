@@ -1,2 +1,2 @@
 # MeltdownTest
-Coding exam for a previous job application
+Coding exam for a previous job application. Leverages NodeCanvas.
